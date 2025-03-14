@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java Developer
 - 🌱 I’m currently learning Advanced Java
 - 👯 I’m looking to collaborate on Full stack Java projects
-- 💬 Ask me about Java 
+- 💬 Ask me about Java
 - 📫 How to reach me: www.linkedin.com/in/namitha-chendar
 -->
