@@ -1,4 +1,4 @@
-## Hi there, I'm Namitha! 👋  
+## Hi there, I am Namitha! 👋  
 ✨ Welcome to my GitHub profile! ✨  
 
 ## 🔭 Currently Working On  
