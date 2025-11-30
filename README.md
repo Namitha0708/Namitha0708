@@ -1,5 +1,5 @@
 ## Hi there, I am Namitha! 👋  
-✨ Welcome to my GitHub profile! ✨  
+✨ Welcome to my GitHub profile!✨  
 
 ## 🔭 Currently Working On  
 - Building my skills as a **Java Developer** and working on exciting projects to enhance my expertise.  
